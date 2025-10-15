@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.idea/
+.vscode/
+*.db
+
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+
+# Byte-compiled / cache
+*.log
+*.sqlite3
+
+# Redis dump
+dump.rdb
+
+# Virtual environment
+app/myenv/
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
